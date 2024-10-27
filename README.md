@@ -1,3 +1,3 @@
 # go-with-force
 
-Salesforce client writen in go to communicate with it
+Salesforce client written in go to communicate with it.
